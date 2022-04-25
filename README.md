@@ -1,2 +1,10 @@
-# site-responsivo-html5-css3-js
-Exemplo de site responsivo e mobile-friendly utilizando html5, css3 e javascript
+# Exemplo de site responsivo
+Exemplo de site simples, responsivo e mobile-friendly.
+
+## Acesse o link e teste o projeto:
+Veja o projeto pronto: https://danniel-rodrigues.github.io/site-responsivo-exemplo/
+
+## Tecnologias utilizadas:
+* HTML5
+* CSS3
+* Javascript
